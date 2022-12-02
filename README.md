@@ -2,6 +2,6 @@
 
 To build run
 
-  cmake .
-  make
+  # cmake .
+  # make
   
